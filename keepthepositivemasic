@@ -1,38 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
     <title>自己紹介</title>
 </head>
 <body>
-    <header>
-        <h1>自己紹介</h1>
-    </header>
-
-    <main>
-        <section>
-            <h2>基本情報</h2>
-            <!-- 自己紹介の基本情報をここに記述 -->
-            <p>名前：あなたの名前</p>
-            <p>年齢：あなたの年齢</p>
-            <p>趣味：あなたの趣味</p>
-        </section>
-
-        <section>
-            <h2>経歴</h2>
-            <!-- 自己紹介の経歴情報をここに記述 -->
-            <p>学歴や職歴など</p>
-        </section>
-
-        <section>
-            <h2>お問い合わせ</h2>
-            <!-- 連絡先情報をここに記述 -->
-            <p>メールアドレス：your_email@example.com</p>
-            <p>電話番号：123-456-7890</p>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2023 あなたの名前</p>
-    </footer>
+    <h1>自己紹介</h1>
+    <p>こんにちは！私は〇〇と申します。以下に私の自己紹介を記載します。</p>
+    <h2>基本情報</h2>
+    <ul>
+        <li>名前: 〇〇</li>
+        <li>年齢: 〇〇歳</li>
+        <li>趣味: 〇〇</li>
+    </ul>
+    <h2>経歴</h2>
+    <p>〇〇学校を卒業後、〇〇で〇〇として働いています。</p>
 </body>
 </html>
